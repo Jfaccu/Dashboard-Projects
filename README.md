@@ -1,9 +1,9 @@
 # Porfolio
 
-## [Proyecto EcoBici (Excel - PowerBI]()
+## [Proyecto EcoBici Ciudad de Buenos Aires (Excel - PowerBI)](https://github.com/Jfaccu/Porfolio/tree/main/Proyecto%20Ecobici)
 Agregar Descript
 
-![Image text][https://i.ibb.co/GJPmmcL/Ecobici.png]
+![Image text](https://i.ibb.co/GJPmmcL/Ecobici.png)
 
 
 
@@ -12,7 +12,7 @@ Agregar Descrip.
 
 
 
-## [Proyecto Final Estimaciones Agricolas CODERHOUSE](https://github.com/Jfaccu/Porfolio/tree/main/Proyecto%20Final%20de%20CoderHouse)
+## [Proyecto Final Estimaciones Agricolas CODERHOUSE (Excel - PowerBI)](https://github.com/Jfaccu/Porfolio/tree/main/Proyecto%20Final%20de%20CoderHouse)
 Agregar Descrip.
 
 ![Image text](https://i.ibb.co/1GhRN3c/Dise-o-sin-t-tulo-2.png)
