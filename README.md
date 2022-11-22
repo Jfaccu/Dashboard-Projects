@@ -3,7 +3,7 @@
 ## [Proyecto EcoBici Ciudad de Buenos Aires (Excel - PowerBI)](https://github.com/Jfaccu/Porfolio/tree/main/Proyecto%20Ecobici)
 Agregar Descript
 AAA
-![Image text](https://i.ibb.co/0DdWpvw/Ecobici-BA.png)
+![Image text](https://i.ibb.co/SNrxvv8/Ecobici.png)
 
 
 
