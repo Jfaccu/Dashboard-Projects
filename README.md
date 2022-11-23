@@ -1,4 +1,4 @@
-d# 👩‍🚀Porfolio Personal
+# 👩‍🚀Porfolio Personal
 Hola! Me llamo Leandro Facundo Espinola, este es mi portfolio personal para reclutadores o cualquier interesado en los proyectos.
 
 ## 📝PROYECTOS
