@@ -1,10 +1,10 @@
 			PUNTOS A TENER EN CUENTA A LA HORA DE 
 			EJECUTAR LOS SCRIPT DE LA BASE DE DATOS.
 
-	En En documento drive encontraremos la carpeta que contiene todos
-los script de la base de datos y los objetos que la componen.
+	En En documento encontraremos la carpeta que contiene todos
+	los script de la base de datos y los objetos que la componen.
 	En primer instancia los script estaran enumerados respectivamente
-en la forma que tiene que ser ejecutados:
+	en la forma que tiene que ser ejecutados:
 
 0- Create Restauran_BD = Este script a la hora de ejecutarlo se creara la estructura
 de la base de datos.
