@@ -1,7 +1,7 @@
-# Porfolio Personal👩‍🚀
+# 👩‍🚀Porfolio Personal
 Hola! Me llamo Leandro Facundo Espinola, este es mi portfolio personal para reclutadores o cualquier interesado en los proyectos.
 
-## PROYECTOS
+## 📝PROYECTOS
 
 ## 🚲[Proyecto EcoBici Ciudad de Buenos Aires 2017/2018/2019 (Excel - PowerBI)](https://github.com/Jfaccu/Porfolio/tree/main/Proyecto%20Ecobici)🚲
 Analisis de datos de Ecobici un dataset publico de la Ciudad de Buenos aires en donde analizaremos los recorridos realizados y los registros de los usuarios, Limpieza de datos con Excel/Power Query, y Power Bi para el Dashboard.
