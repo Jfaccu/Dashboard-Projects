@@ -1,5 +1,5 @@
 # Porfolio Personal👩‍🚀
-Me llamo Leandro Facundo Espinola, este es mi portfolio personal para reclutadores o cualquier interesado en los proyectos.
+Hola! Me llamo Leandro Facundo Espinola, este es mi portfolio personal para reclutadores o cualquier interesado en los proyectos.
 
 ## PROYECTOS
 
@@ -11,12 +11,12 @@ Analisis de datos de Ecobici un dataset publico de la Ciudad de Buenos aires en 
 
 
 
-## [Creacion de Base de Datos para un restaurant ficticio (MySQL)](https://github.com/Jfaccu/Porfolio/tree/main/1_Proyecto_Base_de_datos_MySQL)
+## 💿[Creacion de Base de Datos para un restaurant ficticio (MySQL)](https://github.com/Jfaccu/Porfolio/tree/main/1_Proyecto_Base_de_datos_MySQL)💿
 Creamos una base de datos emulando un restaurant, el flujo de datos pasa desde el pedido del cliente hasta recibir la facturación. 
 
 
 
-## [Proyecto Final Estimaciones Agricolas CODERHOUSE (Excel - PowerBI)](https://github.com/Jfaccu/Porfolio/tree/main/Proyecto%20Final%20de%20CoderHouse)
+## 📊[Proyecto Final Estimaciones Agricolas CODERHOUSE (Excel - PowerBI)](https://github.com/Jfaccu/Porfolio/tree/main/Proyecto%20Final%20de%20CoderHouse)📊
 Analisis de datos del historial sobre Estimaciones Agricolas, Limpieza con Excel y Dashboard con Power BI.
 
 ![Image text](https://i.ibb.co/1GhRN3c/Dise-o-sin-t-tulo-2.png)
