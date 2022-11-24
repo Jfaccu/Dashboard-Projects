@@ -18,7 +18,7 @@ Objetos que la componen:
 - Functions.
 - Stored Procedure.
 - Triggers.
-- Sentencias DCL: Cracion de Roles.
+- Sentencias DCL: Creacion de Roles.
 - Sentencias TCL: Comandos Compactos.
 
 
