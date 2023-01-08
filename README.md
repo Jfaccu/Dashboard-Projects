@@ -1,5 +1,5 @@
 # 👩‍🚀Porfolio Personal
-Hola! Me llamo Facundo Espinola, este es mi portfolio personal para reclutadores o cualquier interesado en los proyectos.
+👋Hola! Me llamo Facundo Espinola, este es mi portfolio personal para reclutadores o cualquier interesado en los proyectos.
 
 ## 📝PROYECTOS
 
