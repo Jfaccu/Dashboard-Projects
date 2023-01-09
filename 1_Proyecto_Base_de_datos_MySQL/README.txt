@@ -1,4 +1,4 @@
-			#PUNTOS A TENER EN CUENTA A LA HORA DE 
+			PUNTOS A TENER EN CUENTA A LA HORA DE 
 			EJECUTAR LOS SCRIPT DE LA BASE DE DATOS.
 
 	En En documento encontraremos la carpeta que contiene todos
