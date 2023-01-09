@@ -3,6 +3,13 @@
 
 ## 📝PROYECTOS
 
+## 💿[Consultas avanzadas a Base de datos Censo Indio (SQL Server Management)]
+Importamos Data sobre el censo indio, en lo que trateremos de realizar consultas para responder preguntas de analisis que se podran ver en visualizaciones.
+En este codigo encontraran:
+- Respuestas de analisis predictivo.
+- Consultas Basicas y Avanzadas.
+- Implementacion de Estadisitica y Formulas matematicas.
+
 ## 🚲[Proyecto EcoBici Ciudad de Buenos Aires 2017/2018/2019 (Excel - PowerBI)](https://github.com/Jfaccu/Porfolio/tree/main/Proyecto%20Ecobici)🚲
 Analisis de datos de Ecobici un dataset publico de la Ciudad de Buenos aires en donde analizaremos los recorridos realizados y los registros de los usuarios, Limpieza de datos con Excel/Power Query, y Power Bi para el Dashboard.
 
