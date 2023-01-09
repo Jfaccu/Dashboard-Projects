@@ -6,7 +6,7 @@
 ## 💿[Consultas avanzadas a Base de datos Censo Indio (SQL Server Management)](https://github.com/Jfaccu/Portfolio/tree/main/Proyecto%20SQL%20Tareas%20Analisis)
 Importamos Data sobre el censo indio, en lo que trateremos de realizar consultas para responder preguntas de analisis que se podran ver en visualizaciones.
 En este codigo encontraran:
-- Respuestas de analisis predictivo.
+- Respuestas de analisis de Diagnostico.
 - Consultas Basicas y Avanzadas.
 - Implementacion de Estadisitica y Formulas matematicas.
 
