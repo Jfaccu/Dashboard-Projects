@@ -138,7 +138,7 @@ INNER JOIN project1..Data2 b ON  a.district=b.district) c ) d
 GROUP BY state
 
 
---11. Total Literacy Rate (Tasa Total de Alfabetizacion y de Analfabetización)
+--11. Total Literacy Rate (Tasa Total de Alfabetizacion y de AnalfabetizaciÃ³n)
 
 SELECT
 	h.State,
@@ -150,7 +150,7 @@ SELECT
 	g.state,
 	ROUND(g.literacy_ratio*g.Population,0) Literate_People,
 	ROUND((1-g.literacy_ratio)*g.Population,0) iliterate_People
-	FROM (
+	FROM(
 SELECT 
 	a.District,
 	a.State,
@@ -161,27 +161,24 @@ SELECT
 	    ) g ) h
 GROUP BY state
 
---12. ¿Cual era la poblacion del censo anterior? 
+--12. Â¿Cual era la poblacion del censo anterior? 
 --12. Population in Previous Cense (Calculo para obtener el censo de la poblacion anterior)
 
 SELECT
 	SUM(m.previous_census_population) previous_census_population,
 	SUM(m.current_population) current_population
-	FROM
-(
+	FROM(
 SELECT 
 	e.State,
 	SUM(e.previous_census_population) previous_census_population,
 	SUM(e.current_population) current_population
-	FROM
-(
+	FROM(
 SELECT
 	d.District,
 	d.State,
 	ROUND(d.Population/(1+d.growth),0) previous_census_population,
 	d.population current_population
-	FROM
-(
+	FROM(
 SELECT
 	a.District,
 	a.State,
@@ -195,13 +192,12 @@ GROUP BY e.State)m
 --13. POPULATION VS AREA (Al ser Areas en Km2 el limite del area es limitado, la poblacion aumenta y esto hace que el Area se reduzca)
 --13. Calculamos el area previo al censo con respecto al area del censo actual
 
-SELECT o.total_area/o.previous_census_population previous_census_population_vs_area,
-	   o.total_area/o.current_population current_population_vs_area
+SELECT 	   o.total_area/o.previous_census_population AS previous_census_population_vs_area,
+	   o.total_area/o.current_population AS current_population_vs_area
 	   FROM(
-SELECT q.*, r.total_area FROM (
-
-SELECT '1' as keyy,n.* FROM
-(SELECT
+SELECT q.*, r.total_area FROM(
+SELECT '1' as keyy,n.* FROM(
+SELECT
 	SUM(m.previous_census_population) previous_census_population,
 	SUM(m.current_population) current_population
 	FROM(
