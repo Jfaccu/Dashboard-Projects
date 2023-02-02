@@ -3,12 +3,6 @@
 
 ## 📝PROYECTOS
 
-## 💿[Consultas avanzadas a Base de datos Censo Indio (SQL Server Management)](https://github.com/Jfaccu/Portfolio/tree/main/Proyecto%20SQL%20Tareas%20Analisis)
-Importamos Data sobre el censo indio, en lo que trateremos de realizar consultas para responder preguntas de analisis que se podran utilizar en visualizaciones.
-En este codigo encontraran:
-- Respuestas de analisis de Diagnostico.
-- Consultas Basicas y Avanzadas.
-- Implementacion de Estadisitica y Formulas matematicas.
 
 ## 🚲[Proyecto EcoBici Ciudad de Buenos Aires 2017/2018/2019 (Excel - PowerBI)](https://github.com/Jfaccu/Porfolio/tree/main/Proyecto%20Ecobici)🚲
 Analisis de datos de Ecobici un dataset publico de la Ciudad de Buenos aires en donde analizaremos los recorridos realizados y los registros de los usuarios, Limpieza de datos con Excel/Power Query, y Power Bi para el Dashboard.
@@ -16,17 +10,6 @@ Analisis de datos de Ecobici un dataset publico de la Ciudad de Buenos aires en 
 
 ![Image text](https://i.ibb.co/SNrxvv8/Ecobici.png)
 
-
-
-## 💿[Creacion de Base de Datos para un restaurant ficticio (MySQL)](https://github.com/Jfaccu/Porfolio/tree/main/1_Proyecto_Base_de_datos_MySQL)💿
-Creamos una base de datos emulando un restaurant, el flujo de datos pasa desde el pedido del cliente hasta recibir la facturación. 
-Objetos que la componen:
-- Views.
-- Functions.
-- Stored Procedure.
-- Triggers.
-- Sentencias DCL: Creacion de Roles.
-- Sentencias TCL: Comandos Compactos.
 
 
 
