@@ -7,7 +7,7 @@
 Analisis de datos sobre las ventas de un local de zapatillas. Hay muchas temporadas en las que las ventas son significativamente más altas o más bajas que los promedios. Si la empresa no conoce estas temporadas, puede perder demasiado dinero. Predecir las ventas futuras es uno de los planes más cruciales para una empresa. El pronóstico de ventas le da una idea a la empresa para organizar las existencias, calcular los ingresos, tener presente la cantidad de stock disponible para hacer frente a la futura demanda, y decidir si realizar una nueva inversión. 
 Implemente un analisis descriptivo para ver la historia de los datos y desarrollar el storytelling, limpieza, modelado de datos con power query y luego Power BI para realizar el Dashboard.
 
-![Image text](https://i.ibb.co/WFdcPYS/Dise-o-sin-t-tulo-1.png)
+![Image text](https://i.ibb.co/jW0y3tm/Dise-o-sin-t-tulo-1.png)
 
 
 
